@@ -1,0 +1,53 @@
+body{
+border:15px solid #000;
+padding: 50px;
+margin:50px 250px;
+border-color:green  ;
+width:35%;
+
+
+
+}
+h2{
+color:red;
+
+}
+.rojo{
+color:blue;
+background:yellow;
+
+}
+.amarillo{
+color:white;
+background:red;
+
+}
+.verdee{
+color:green;
+
+
+}
+.verde{
+color:white;
+background:green;
+
+}
+.azull{
+color:white;
+background:g;
+
+
+}
+select{
+height:100%;
+
+}
+.central{
+padding: 110px;
+
+}
+
+
+
+
+
